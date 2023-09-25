@@ -1,0 +1,18 @@
+.one{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    background: linear-gradient(to right, #98FB98, #00FF7F);
+    align-items: center;
+    font-size: 25px;
+    color: white;
+    font-weight: 900;
+}
+
+
+
+
